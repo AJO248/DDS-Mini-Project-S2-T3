@@ -24,7 +24,7 @@ Our project is to create a Digital Quiz Game that challenges players to answer m
 </details>
 
 ## Functional Block Diagram
-![image](![block_diagram](https://github.com/user-attachments/assets/3b14d6cc-52f2-497b-bb42-df59358cddfd))
+![image](https://github.com/user-attachments/assets/3b14d6cc-52f2-497b-bb42-df59358cddfd)
 
 ## Working
 <details>
