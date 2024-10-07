@@ -1,5 +1,5 @@
 
-# Small Scale DES Algorithm Hardware Implementation
+# Implementation of Quiz Game Scoreboard with Timer
 ## Team details
 <details>
 <summary> Detail </summary>
