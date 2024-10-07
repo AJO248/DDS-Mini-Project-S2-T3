@@ -19,7 +19,8 @@ Section: S2
 <details>
 <summary> Detail </summary>
 MCQ Quizzes are often left inefficient in their ability to accurately test and bring out deserving candidates to the front. This calls for an efficient and accurate quiz system
-which can be implemented by means of digital electronics
+which can be implemented by means of digital electronics.
+
 Our project is to create a Digital Quiz Game that challenges players to answer multiple-choice questions within a set time limit. The project is targeted at quiz game organizers, educational institutions, etc. It should ensure fairness, accuracy, and engagement in competitive quiz games.
 </details>
 
