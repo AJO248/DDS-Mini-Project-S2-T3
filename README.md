@@ -36,9 +36,9 @@ Our project is to create a Digital Quiz Game that challenges players to answer m
 
 ### Truth Table for Finite State Machine
 
-![
+![TruthtableFSM](/SnapShots/TruthTableFSM.png)
 
-
-
+### Truth Table for LFSR
+![LFSR_Truth_Table](/SnapShots/TruthTableLFSR.png)
   
 </details>
