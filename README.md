@@ -29,8 +29,16 @@ Our project is to create a Digital Quiz Game that challenges players to answer m
 ## Working
 <details>
 <summary> Detail </summary>
-Block Diagram for the Finite State Machine
-image[FSM](https://github.com/user-attachments/assets/6af32090-b356-4e0f-8c76-8bc95e219324)
+  
+### Block Diagram for the Finite State Machine
+  
+![FSM](/SnapShots/FSM.png)
+
+### Truth Table for Finite State Machine
+
+![
+
+
 
   
 </details>
