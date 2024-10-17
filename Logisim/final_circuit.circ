@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project source="3.9.0" version="1.0">
-  This file is intended to be loaded by Logisim-evolution v3.9.0(https://github.com/logisim-evolution/).
+<project source="3.8.0" version="1.0">
+  This file is intended to be loaded by Logisim-evolution v3.8.0(https://github.com/logisim-evolution/).
 
   <lib desc="#Wiring" name="0">
     <tool name="Pin">
@@ -228,47 +228,47 @@
     </comp>
     <comp lib="5" loc="(590,440)" name="7-Segment Display"/>
     <comp lib="5" loc="(780,440)" name="7-Segment Display"/>
-    <comp lib="6" loc="(1168,100)" name="Text">
+    <comp lib="6" loc="(1165,100)" name="Text">
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="Abhiram Suresh, 231CS202"/>
     </comp>
-    <comp lib="6" loc="(1168,130)" name="Text">
+    <comp lib="6" loc="(1165,130)" name="Text">
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="Arjun Rijesh, 231CS212"/>
     </comp>
-    <comp lib="6" loc="(1168,165)" name="Text">
+    <comp lib="6" loc="(1165,165)" name="Text">
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="Advaith Nair,231CS205"/>
     </comp>
-    <comp lib="6" loc="(1210,62)" name="Text">
+    <comp lib="6" loc="(1210,60)" name="Text">
       <a name="font" val="SansSerif bold 30"/>
       <a name="text" val="QUIZ SCOREBOARD WITH TIMER"/>
     </comp>
-    <comp lib="6" loc="(1770,152)" name="Text">
+    <comp lib="6" loc="(1770,150)" name="Text">
       <a name="font" val="SansSerif bold 26"/>
       <a name="text" val="INSTRUCTIONS"/>
     </comp>
-    <comp lib="6" loc="(1773,308)" name="Text">
+    <comp lib="6" loc="(1770,305)" name="Text">
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="5. Press clock button again and repeat steps."/>
     </comp>
-    <comp lib="6" loc="(1837,233)" name="Text">
+    <comp lib="6" loc="(1835,230)" name="Text">
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="2. Switch off Start and then press clock again, to start timer"/>
     </comp>
-    <comp lib="6" loc="(1857,208)" name="Text">
+    <comp lib="6" loc="(1855,205)" name="Text">
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="1. Press Start, then the clock Button to get the random question."/>
     </comp>
-    <comp lib="6" loc="(2061,255)" name="Text">
+    <comp lib="6" loc="(2060,255)" name="Text">
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="3. Once timer starts, you can enter answer and then switch on SUBMIT button followed by the Clock Button."/>
     </comp>
-    <comp lib="6" loc="(2248,283)" name="Text">
+    <comp lib="6" loc="(2245,280)" name="Text">
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="4. Switch off the Submit button and then press clock button twice to compare and check the answer, which increments scoreboard by 1 if correct."/>
     </comp>
-    <comp lib="6" loc="(3152,478)" name="Text">
+    <comp lib="6" loc="(3150,475)" name="Text">
       <a name="font" val="SansSerif bold 26"/>
       <a name="text" val="SCOREBOARD"/>
     </comp>
@@ -276,7 +276,7 @@
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="FINITE STATE MACHINE"/>
     </comp>
-    <comp lib="6" loc="(867,495)" name="Text">
+    <comp lib="6" loc="(865,495)" name="Text">
       <a name="font" val="SansSerif bold 26"/>
       <a name="text" val="TIMER"/>
     </comp>
@@ -457,27 +457,27 @@
     <wire from="(3130,530)" to="(3130,550)"/>
     <wire from="(3130,610)" to="(3130,620)"/>
     <wire from="(3140,540)" to="(3140,550)"/>
-    <wire from="(3150,1330)" to="(3190,1330)"/>
+    <wire from="(3150,1300)" to="(3190,1300)"/>
     <wire from="(3150,870)" to="(3180,870)"/>
     <wire from="(3150,890)" to="(3170,890)"/>
     <wire from="(3150,910)" to="(3160,910)"/>
-    <wire from="(3150,930)" to="(3150,1330)"/>
-    <wire from="(3160,1320)" to="(3190,1320)"/>
-    <wire from="(3160,910)" to="(3160,1320)"/>
-    <wire from="(3170,1310)" to="(3190,1310)"/>
+    <wire from="(3150,930)" to="(3150,1300)"/>
+    <wire from="(3160,1310)" to="(3190,1310)"/>
+    <wire from="(3160,910)" to="(3160,1310)"/>
+    <wire from="(3170,1320)" to="(3190,1320)"/>
     <wire from="(3170,510)" to="(3170,550)"/>
     <wire from="(3170,510)" to="(3280,510)"/>
     <wire from="(3170,590)" to="(3170,610)"/>
     <wire from="(3170,590)" to="(3230,590)"/>
-    <wire from="(3170,890)" to="(3170,1310)"/>
-    <wire from="(3180,1300)" to="(3190,1300)"/>
+    <wire from="(3170,890)" to="(3170,1320)"/>
+    <wire from="(3180,1330)" to="(3190,1330)"/>
     <wire from="(3180,520)" to="(3180,550)"/>
     <wire from="(3180,520)" to="(3290,520)"/>
     <wire from="(3180,600)" to="(3180,610)"/>
     <wire from="(3180,600)" to="(3220,600)"/>
     <wire from="(3180,630)" to="(3180,660)"/>
     <wire from="(3180,660)" to="(3280,660)"/>
-    <wire from="(3180,870)" to="(3180,1300)"/>
+    <wire from="(3180,870)" to="(3180,1330)"/>
     <wire from="(3190,530)" to="(3190,550)"/>
     <wire from="(3190,530)" to="(3300,530)"/>
     <wire from="(3190,610)" to="(3190,620)"/>
