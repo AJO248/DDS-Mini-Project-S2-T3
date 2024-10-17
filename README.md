@@ -47,8 +47,20 @@ Our project is to create a Digital Quiz Game that challenges players to answer m
 <details>
   <summary> Detail </summary>
 
+  ### Main Circuit
+
   ![main](/SnapShots/main.jpg)
+
+  ### FSM Submodule
+
   ![fsm](/SnapShots/FSM.jpg)
+
+  ### Timer Submodule
+
   ![timer](/SnapShots/Timer.jpg)
+
+  ### Linear Feedback Shift Register Submodule
+
   ![lfsr](/SnapShots/LFSR.jpg)
+
 </details>
