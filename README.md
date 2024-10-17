@@ -42,3 +42,13 @@ Our project is to create a Digital Quiz Game that challenges players to answer m
 ![LFSR_Truth_Table](/SnapShots/TruthTableLFSR.png)
   
 </details>
+
+## Logisim
+<details>
+  <summary> Detail </summary>
+
+  ![main](/SnapShots/main.jpg)
+  ![fsm](/SnapShots/FSM.jpg)
+  ![timer](/SnapShots/Timer.jpg)
+  ![lfsr](/SnapShots/LFSR.jpg)
+</details>
